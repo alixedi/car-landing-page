@@ -37,4 +37,4 @@ These terms and conditions are effective as of 2020-10-7
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at lituk.dripl.co.uk.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at hello@dripl.co.uk.
