@@ -7,7 +7,7 @@ include_in_header: false
 Privacy Policy
 ==============
 
-Dripl Ltd built the Life in the UK Untangled app as a Commercial app. This SERVICE is provided by Dripl Ltd and is intended for use as is.
+Dripl Ltd built the Car Theory Test Untangled app as a Commercial app. This SERVICE is provided by Dripl Ltd and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
