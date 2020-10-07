@@ -1,10 +1,10 @@
 #page title
 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
-page_title: Life in the UK Untangled
+page_title: Car Theory Test Untangled
 
 # App Info
 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_id: 1512489096
+# ios_app_id: 1512489096
 
 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 appstore_link:
@@ -20,11 +20,11 @@ presskit_download_link:
 app_icon: assets/logo.png
 
 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_name: Life in the UK Untangled
+app_name: Car Theory Test Untangled
 
 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: £4.99
-app_description: Pass the test without the book
+app_price: £2.99
+app_description: Pass first time. Updated for 2020.
 
 # Set to true to show a smart app banner at top of page on mobile devices.
 enable_smart_app_banner: true
@@ -46,29 +46,37 @@ youtube_username:
 # Feature List
 features:
 
-  - title: From migrants
-    description: We passed our Life in the UK tests in 2019. We know what it takes & we put everything we know in this app.
-    fontawesome_icon_name: heart
-
-  - title: Do not buy the book
-    description: Seriously. Don't. All the content you need is baked into the app. What't more, the content is structured to help you memorize it.
+  - title: We will tell you when you are ready
+    description: Get cracking with the practice and mock tests and keep an eye on the progress rings on the home screen. When the rings are about to close, you are ready. Go book that test.
     fontawesome_icon_name: check-square
 
-  - title: Privacy first
-    description: We do not want to know who you are. We do not want to help people sell you stuff. We just want you to pass the test.
-    fontawesome_icon_name: lock
+  - title: Simplicity is the key
+    description: Its right there in the name. Untangled means an app you can fire up on your commute, while waiting for your kettle to boil or while your partner is watching Strictly (don't).
+    fontawesome_icon_name: list-ol
 
-  - title: Sprinkle of science
-    description: We have designed the app with spaced repetitions. Questions will repeat until you get them right several times.
+  - title: Hazard Perception included
+    description: Or maybe you can convince your partner to watch Hazard Perception clips together? They are included in the app. No extra charges.
+    fontawesome_icon_name: play
+
+  - title: Doesn't cost a fiver
+    description: Talking about charges, why does every theory app costs a fiver? Well, not any more. You can have our app for the grand price of a skinny latte. Buy a celebrity bobblehead separately if you are into that. Or not?
+    fontawesome_icon_name: pound-sign
+
+  - title: Licensed materials from the DVSA
+    description: The learning materials for our app are licensed from the DVSA. 700-odd questions, 10 scenarios & 34 hazard perception clips. From the people who make the real test.
+    fontawesome_icon_name: certificate
+
+  - title: A sprinkle of Science
+    description: Learning 700 questions can be daunting. So we have build the app with spaced repetition - the science that will ensure that you don't forget what you have learned. As you go through the material, questions will repeat until you get them right several times.
     fontawesome_icon_name: brain
 
-  - title: A thousand questions
-    description: The app has a thousand carefully crafted questions, their answers & detailed write-ups that explain the answers.
-    fontawesome_icon_name: list
+  - title: Privacy first
+    description: We don’t like snooping. We are not interested in your email, your gender or what you post on Facebook. Pass the test. Delete the app. Move on.
+    fontawesome_icon_name: lock
 
-  - title: Beautiful, slick UI
-    description: Most test prep apps in the AppStore give us eye sores. We have worked hard to make this one a joy to use.
-    fontawesome_icon_name: palette
+  - title: A new feature every other week
+    description: Finally, we would like this to be a collaboration. Dripl x You. We will release a new feature every other week. Tell us what you want. We will make it happen.
+    fontawesome_icon_name: gift
 
 
 # Theme Settings
